@@ -1,0 +1,2 @@
+# automatic-eureka
+Base mental
